@@ -1,3 +1,4 @@
+
 <form action='q1.php' method='POST'>
 <b>Name of the student :</b> <input type='text' name='name' ><br><br>
 <u>Marks in each subject:</u> <br><br>
